@@ -1,0 +1,74 @@
+@import "mixins";
+
+.questionPage{
+    // background: linear-gradient(to right, #ffffff 0%, #ffffff 50%, red 50%, red 100%);
+    .left-container {
+        height:100vh;
+        background-color: white;
+        padding:10%;
+        display: table;
+    }
+    .right-container{
+        height:100vh;
+        background-color: red;
+        padding: 10%;
+        display: table;
+    }
+    .inner-container-wrapper{      
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+    }
+    .inner-container{
+        // padding: 151px 50px;
+    }
+    .inner {
+        position: relative;
+        display: inline-block;
+        line-height: 1;
+        z-index: 1;
+        -webkit-perspective: 1000;
+        text-align: center;
+        -webkit-transition: color .35s cubic-bezier(.65,0,.35,1);
+        -moz-transition: color .35s cubic-bezier(.65,0,.35,1);
+        -o-transition: color .35s cubic-bezier(.65,0,.35,1);
+        transition: color .35s cubic-bezier(.65,0,.35,1);
+    }
+    .inner:after {
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: -92px;
+        padding: 80px 50px;
+        z-index: -1;
+        border-width: 12px;
+        border-style: solid;
+        display: block;
+        content: '';
+        border-radius: 50%;
+        border-width: 11px;
+        padding: 140px 140px;
+        -webkit-transition: all .35s cubic-bezier(.65,0,.35,1);
+        -moz-transition: all .35s cubic-bezier(.65,0,.35,1);
+        -o-transition: all .35s cubic-bezier(.65,0,.35,1);
+        transition: all .35s cubic-bezier(.65,0,.35,1);
+    }
+    .inner-left{
+        color: red;
+        &:after{
+            left: -48px
+        }
+    }
+    .inner-right{
+        color: white;
+        &:after{
+            left: -70px
+        }
+    }
+    .inner {
+        -webkit-transition: color .35s cubic-bezier(.65,0,.35,1),transform .35s cubic-bezier(.65,0,.35,1);
+        -moz-transition: color .35s cubic-bezier(.65,0,.35,1),transform .35s cubic-bezier(.65,0,.35,1);
+        -o-transition: color .35s cubic-bezier(.65,0,.35,1),transform .35s cubic-bezier(.65,0,.35,1);
+        transition: color .35s cubic-bezier(.65,0,.35,1),transform .35s cubic-bezier(.65,0,.35,1);
+    }
+}
