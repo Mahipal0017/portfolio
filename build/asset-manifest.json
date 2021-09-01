@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b18797fa.chunk.css",
+    "main.js": "/static/js/main.f1cf83aa.chunk.js",
+    "main.js.map": "/static/js/main.f1cf83aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1afd4340.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1afd4340.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.4d1e7af1.chunk.js": "/static/js/2.4d1e7af1.chunk.js",
+    "static/js/2.4d1e7af1.chunk.js.map": "/static/js/2.4d1e7af1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.b18797fa.chunk.css.map": "/static/css/main.b18797fa.chunk.css.map",
+    "static/js/2.4d1e7af1.chunk.js.LICENSE.txt": "/static/js/2.4d1e7af1.chunk.js.LICENSE.txt",
+    "static/media/0tesla.81c3e687.png": "/static/media/0tesla.81c3e687.png",
+    "static/media/1flblue.21f9fbe4.png": "/static/media/1flblue.21f9fbe4.png",
+    "static/media/2nova.adb0475b.png": "/static/media/2nova.adb0475b.png",
+    "static/media/3autonation.14632c9e.png": "/static/media/3autonation.14632c9e.png",
+    "static/media/4medtronics.dc785d29.png": "/static/media/4medtronics.dc785d29.png",
+    "static/media/5factset.31838175.png": "/static/media/5factset.31838175.png",
+    "static/media/6ctrlplusr.7e52d059.png": "/static/media/6ctrlplusr.7e52d059.png",
+    "static/media/AutoNation.73ad57f9.png": "/static/media/AutoNation.73ad57f9.png",
+    "static/media/FLBlue.b6046a8f.png": "/static/media/FLBlue.b6046a8f.png",
+    "static/media/FactSet.1ddf5db8.png": "/static/media/FactSet.1ddf5db8.png",
+    "static/media/Mahipal-Resume.0bc1f9b3.docx": "/static/media/Mahipal-Resume.0bc1f9b3.docx",
+    "static/media/NSU.ec113270.png": "/static/media/NSU.ec113270.png",
+    "static/media/TeslaLogo.4f800316.png": "/static/media/TeslaLogo.4f800316.png",
+    "static/media/babel.ee1d9a0c.png": "/static/media/babel.ee1d9a0c.png",
+    "static/media/bitmoji.0021e5fd.jpg": "/static/media/bitmoji.0021e5fd.jpg",
+    "static/media/bodybackground.7d1e8c1d.jpg": "/static/media/bodybackground.7d1e8c1d.jpg",
+    "static/media/profile.52e0806d.jpeg": "/static/media/profile.52e0806d.jpeg",
+    "static/media/vscode.6f964ecc.png": "/static/media/vscode.6f964ecc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1afd4340.js",
+    "static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.4d1e7af1.chunk.js",
+    "static/css/main.b18797fa.chunk.css",
+    "static/js/main.f1cf83aa.chunk.js"
+  ]
+}

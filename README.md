@@ -1,3 +1,17 @@
+# Firebase Deployment
+sudo npm install -g firebase-tools
+firebase logout
+firebase login
+firebase init
+    - build (directory)
+    - y (single app)
+    - n (auto github)
+    - y (rewrite index)
+npm run build
+firebase deploy
+
+* firebase is loggined as pma.....dev *
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
