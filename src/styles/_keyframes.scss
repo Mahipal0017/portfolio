@@ -3,6 +3,7 @@
     animation-duration: 2s;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
+    animation-iteration-count: 1;
  }
 
  .animatedafter1{
@@ -12,6 +13,7 @@
     animation-delay:1s;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
+    animation-iteration-count: 1;
  }
 
  .animated5{
@@ -19,6 +21,7 @@
   animation-duration: 5s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
+  animation-iteration-count: 1;
 }
 
  .animated10{
@@ -26,11 +29,13 @@
     animation-duration: 8s;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
+    animation-iteration-count: 1;
  }
 
  .fadeIn{
     -webkit-animation-name: fadeIn;
     animation-name: fadeIn;
+    animation-iteration-count: 1;
  }
 
  .fadeInLeft {
@@ -41,21 +46,25 @@
  .fadeInRight {
     -webkit-animation-name: fadeInRight;
     animation-name: fadeInRight;
+    animation-iteration-count: 1;
 }
 
 .fadeInDown {
     -webkit-animation-name: fadeInDown;
     animation-name: fadeInDown;
+    animation-iteration-count: 1;
 }
 
 .fadeInDownMultiple {
     -webkit-animation-name: fadeInDownMultiple;
     animation-name: fadeInDownMultiple;
+    animation-iteration-count: 1;
 }
 
 .fadeInUp {
     -webkit-animation-name: fadeInDown;
     animation-name: fadeInUp;
+    animation-iteration-count: 1;
 }
 
 .growLeft {

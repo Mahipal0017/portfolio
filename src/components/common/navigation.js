@@ -38,7 +38,7 @@ class Navigation extends Component {
                     return ({
                         headingElement: <div className="page-heading animated fadeInDown">
                             <h2 className="main-heading">About Mahi</h2>
-                            <h5 className="main-subheading">I'm a software developer based in Salt Lake City, UT.</h5>
+                            <h5 className="main-subheading">I'm a passionate software developer based in Lewisville, TX.</h5>
                         </div>,
                         isWhatIDoSelected: "",
                         isAboutSelected: "selected",
@@ -67,7 +67,7 @@ class Navigation extends Component {
                 this.setState(state => {
                     return ({
                         headingElement: <div className="page-heading animated fadeInDown">
-                            <h2 className="main-heading">My Recent Work</h2>
+                            <h2 className="main-heading">Recent Work</h2>
                             <h5 className="main-subheading">Portfolio</h5>
                         </div>,
                         isWhatIDoSelected: "",

@@ -1,3 +1,12 @@
+# Sources
+- https://github.com/Mahipal0017/portfolio-react
+- https://console.firebase.google.com/u/2/project/findthemahi/overview (mahipal0017 firebase console)
+
+# My Notes to deploy
+- make Changes
+- npm run build
+- firebase deploy
+
 # Firebase Deployment
 sudo npm install -g firebase-tools
 firebase logout
